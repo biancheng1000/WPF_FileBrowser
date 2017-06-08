@@ -1,0 +1,14 @@
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\bin\Debug\WpfYoutubetutorial.exe.config
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\bin\Debug\WpfYoutubetutorial.exe
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\bin\Debug\WpfYoutubetutorial.pdb
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial.csprojResolveAssemblyReference.cache
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\MainWindow.g.cs
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\App.g.cs
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial_MarkupCompile.cache
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial_MarkupCompile.lref
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\MainWindow.baml
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial.g.resources
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial.Properties.Resources.resources
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial.csproj.GenerateResource.Cache
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial.exe
+f:\users\rufalo\documents\visual studio 2017\Projects\WpfYoutubetutorial\WpfYoutubetutorial\obj\Debug\WpfYoutubetutorial.pdb
